@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>   
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
 
-[![rurube's GitHub stats](https://github-readme-stats.vercel.app/api?username=rurube)](https://github.com/anuraghazra/github-readme-stats)
+[![손정민's GitHub stats](https://github-readme-stats.vercel.app/api?username=rurube)](https://github.com/anuraghazra/github-readme-stats)
